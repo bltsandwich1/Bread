@@ -4,7 +4,7 @@ filD 1.75 mm		//filament diameter, set your own.
 nozzleD 0.4 mm		//nozzle diameter, set your own.
 extrusionWidth .55 mm //Set to about 11/8 nozzleD. Subject to change.
 printTemp 200 C		//Set for your plastic.
-xySpeed 20 mm/s	//Max speed on XY, i just set this low for the first prints.
+xySpeed 50 mm/s	//Max speed on XY, i just set this low for the first prints.
 zSpeed 7 mm/s	//Maximum speed on your z axis. Set this low at first, they're easy to stall...
 numShells 3
 infillWidth 4.5 mm		//Distance between lines of infill on non-solid layers.
